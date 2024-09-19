@@ -1,5 +1,4 @@
 # hackathon-milestones-1-2
-Milestone 1: Static Interactive Resume Builder (100 Points) 
 Objective:
 Build a static resume using HTML, CSS, and TypeScript. 
 Requirements: 
